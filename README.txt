@@ -1,2 +1,1 @@
-this is my practice of git.
-ok.
+this is my practice of git.ok.
